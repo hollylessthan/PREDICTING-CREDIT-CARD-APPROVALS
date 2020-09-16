@@ -28,7 +28,7 @@ Thrid, I pre-processed the data by the following steps:
 
 Last but not least, I fitted a logistic regression model and inspected it's performance:
 
- (1)logistic regression model - assumed features are correlated with each other,on, used generalized linear models (Logistic Regression model) - (from sklearn.linear_model import LogisticRegression)
+ (1)Logistic regression model - assumed features are correlated with each other,on, used generalized linear models (Logistic Regression model) - (from sklearn.linear_model import LogisticRegression)
  
  (2)Evaluating performance - confusion matrix (from sklearn.metrics import confusion_matrix)
  
